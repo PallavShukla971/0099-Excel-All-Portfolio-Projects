@@ -1,9 +1,9 @@
 # 0099-Excel-All-Portfolio-Projects
-Hey Everyone Please find all the projects Made in Python by me.
+Hey Everyone Please find all the projects Made in Excel by me.
 
 # Projects can be made visible on a Zoom Call
 
-# #####-#####__-PYTHON-__#####-#####
+# #####-#####__-EXCEL-__#####-#####
 
 0080 -----------------  -----------------
 

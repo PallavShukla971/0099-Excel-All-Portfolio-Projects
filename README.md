@@ -3,7 +3,7 @@ Hey Everyone Please find all the projects Made in Python by me.
 
 # Projects can be made visible on a Zoom Call
 
-# #####-#####__-Pyhton-__#####-#####
+# #####-#####__-PYTHON-__#####-#####
 
 0080 -----------------  -----------------
 
